@@ -1,0 +1,966 @@
+Player rolled 3 + 2 = 5
+Point is 5
+Player rolled 1 + 3 = 4
+Player rolled 5 + 5 = 10
+Player rolled 3 + 2 = 5
+[1] Game is WON, point is 5, tryCounter is 4.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 1 + 4 = 5
+Player rolled 3 + 5 = 8
+[2] Game is WON, point is 8, tryCounter is 3.
+Player rolled 1 + 1 = 2
+[3] Game is LOST, point is 2, tryCounter is 1.
+Player rolled 2 + 5 = 7
+[4] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 6 = 8
+Point is 8
+Player rolled 5 + 6 = 11
+Player rolled 4 + 1 = 5
+Player rolled 1 + 6 = 7
+[5] Game is LOST, point is 8, tryCounter is 4.
+Player rolled 2 + 6 = 8
+Point is 8
+Player rolled 1 + 2 = 3
+Player rolled 6 + 1 = 7
+[6] Game is LOST, point is 8, tryCounter is 3.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 4 + 4 = 8
+Player rolled 3 + 4 = 7
+[7] Game is LOST, point is 6, tryCounter is 3.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 1 + 3 = 4
+Player rolled 2 + 1 = 3
+Player rolled 2 + 3 = 5
+Player rolled 5 + 1 = 6
+Player rolled 5 + 6 = 11
+Player rolled 4 + 2 = 6
+Player rolled 3 + 1 = 4
+Player rolled 2 + 4 = 6
+Player rolled 4 + 2 = 6
+Player rolled 1 + 5 = 6
+Player rolled 3 + 6 = 9
+Player rolled 5 + 2 = 7
+[8] Game is LOST, point is 8, tryCounter is 13.
+Player rolled 4 + 2 = 6
+Point is 6
+Player rolled 6 + 4 = 10
+Player rolled 6 + 2 = 8
+Player rolled 2 + 4 = 6
+[9] Game is WON, point is 6, tryCounter is 4.
+Player rolled 3 + 1 = 4
+Point is 4
+Player rolled 2 + 4 = 6
+Player rolled 1 + 1 = 2
+Player rolled 2 + 4 = 6
+Player rolled 4 + 5 = 9
+Player rolled 3 + 1 = 4
+[10] Game is WON, point is 4, tryCounter is 6.
+Player rolled 3 + 2 = 5
+Point is 5
+Player rolled 4 + 1 = 5
+[11] Game is WON, point is 5, tryCounter is 2.
+Player rolled 3 + 4 = 7
+[12] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 4 = 7
+[13] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 1 = 3
+[14] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 5 + 5 = 10
+Point is 10
+Player rolled 1 + 2 = 3
+Player rolled 6 + 4 = 10
+[15] Game is WON, point is 10, tryCounter is 3.
+Player rolled 2 + 5 = 7
+[16] Game is WON, point is 7, tryCounter is 1.
+Player rolled 5 + 4 = 9
+Point is 9
+Player rolled 5 + 4 = 9
+[17] Game is WON, point is 9, tryCounter is 2.
+Player rolled 5 + 4 = 9
+Point is 9
+Player rolled 4 + 6 = 10
+Player rolled 1 + 2 = 3
+Player rolled 2 + 1 = 3
+Player rolled 2 + 4 = 6
+Player rolled 2 + 3 = 5
+Player rolled 2 + 5 = 7
+[18] Game is LOST, point is 9, tryCounter is 7.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 6 + 5 = 11
+Player rolled 3 + 2 = 5
+Player rolled 1 + 1 = 2
+Player rolled 4 + 6 = 10
+Player rolled 4 + 5 = 9
+Player rolled 4 + 6 = 10
+Player rolled 2 + 1 = 3
+Player rolled 3 + 6 = 9
+Player rolled 4 + 5 = 9
+Player rolled 3 + 2 = 5
+Player rolled 6 + 4 = 10
+Player rolled 2 + 5 = 7
+[19] Game is LOST, point is 8, tryCounter is 13.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 5 + 1 = 6
+Player rolled 5 + 2 = 7
+[20] Game is LOST, point is 8, tryCounter is 3.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 1 + 4 = 5
+Player rolled 6 + 1 = 7
+[21] Game is LOST, point is 8, tryCounter is 3.
+Player rolled 4 + 1 = 5
+Point is 5
+Player rolled 1 + 5 = 6
+Player rolled 5 + 2 = 7
+[22] Game is LOST, point is 5, tryCounter is 3.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 2 + 5 = 7
+[23] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 3 + 3 = 6
+Point is 6
+Player rolled 3 + 5 = 8
+Player rolled 4 + 6 = 10
+Player rolled 6 + 3 = 9
+Player rolled 2 + 2 = 4
+Player rolled 6 + 6 = 12
+Player rolled 2 + 2 = 4
+Player rolled 1 + 4 = 5
+Player rolled 6 + 1 = 7
+[24] Game is LOST, point is 6, tryCounter is 9.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 6 + 3 = 9
+Player rolled 3 + 6 = 9
+Player rolled 1 + 5 = 6
+Player rolled 5 + 3 = 8
+Player rolled 2 + 1 = 3
+Player rolled 1 + 4 = 5
+Player rolled 3 + 3 = 6
+Player rolled 6 + 5 = 11
+Player rolled 6 + 3 = 9
+Player rolled 1 + 1 = 2
+Player rolled 4 + 6 = 10
+Player rolled 6 + 4 = 10
+Player rolled 2 + 6 = 8
+Player rolled 5 + 5 = 10
+Player rolled 1 + 3 = 4
+[25] Game is WON, point is 4, tryCounter is 16.
+Player rolled 5 + 6 = 11
+[26] Game is WON, point is 11, tryCounter is 1.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 3 + 6 = 9
+Player rolled 5 + 5 = 10
+Player rolled 2 + 4 = 6
+[27] Game is WON, point is 6, tryCounter is 4.
+Player rolled 5 + 2 = 7
+[28] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 6 = 7
+[29] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 4 + 1 = 5
+Player rolled 4 + 4 = 8
+Player rolled 5 + 1 = 6
+[30] Game is WON, point is 6, tryCounter is 4.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 2 + 1 = 3
+Player rolled 3 + 6 = 9
+Player rolled 3 + 1 = 4
+Player rolled 3 + 1 = 4
+Player rolled 4 + 1 = 5
+Player rolled 5 + 4 = 9
+Player rolled 4 + 1 = 5
+Player rolled 3 + 5 = 8
+Player rolled 4 + 5 = 9
+Player rolled 4 + 2 = 6
+[31] Game is WON, point is 6, tryCounter is 11.
+Player rolled 4 + 3 = 7
+[32] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 1 + 6 = 7
+[33] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 1 + 5 = 6
+Point is 6
+Player rolled 4 + 6 = 10
+Player rolled 2 + 6 = 8
+Player rolled 6 + 3 = 9
+Player rolled 3 + 6 = 9
+Player rolled 3 + 5 = 8
+Player rolled 6 + 5 = 11
+Player rolled 4 + 2 = 6
+[34] Game is WON, point is 6, tryCounter is 8.
+Player rolled 2 + 1 = 3
+[35] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 2 + 2 = 4
+Point is 4
+Player rolled 6 + 5 = 11
+Player rolled 1 + 1 = 2
+Player rolled 6 + 2 = 8
+Player rolled 4 + 2 = 6
+Player rolled 1 + 2 = 3
+Player rolled 5 + 1 = 6
+Player rolled 1 + 2 = 3
+Player rolled 6 + 2 = 8
+Player rolled 5 + 3 = 8
+Player rolled 2 + 2 = 4
+[36] Game is WON, point is 4, tryCounter is 11.
+Player rolled 2 + 5 = 7
+[37] Game is WON, point is 7, tryCounter is 1.
+Player rolled 6 + 5 = 11
+[38] Game is WON, point is 11, tryCounter is 1.
+Player rolled 3 + 3 = 6
+Point is 6
+Player rolled 6 + 2 = 8
+Player rolled 4 + 1 = 5
+Player rolled 4 + 1 = 5
+Player rolled 3 + 4 = 7
+[39] Game is LOST, point is 6, tryCounter is 5.
+Player rolled 5 + 6 = 11
+[40] Game is WON, point is 11, tryCounter is 1.
+Player rolled 5 + 6 = 11
+[41] Game is WON, point is 11, tryCounter is 1.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 2 + 3 = 5
+Player rolled 1 + 2 = 3
+Player rolled 2 + 4 = 6
+Player rolled 1 + 1 = 2
+Player rolled 6 + 3 = 9
+Player rolled 2 + 5 = 7
+[42] Game is LOST, point is 8, tryCounter is 7.
+Player rolled 5 + 5 = 10
+Point is 10
+Player rolled 1 + 5 = 6
+Player rolled 6 + 6 = 12
+Player rolled 6 + 3 = 9
+Player rolled 4 + 3 = 7
+[43] Game is LOST, point is 10, tryCounter is 5.
+Player rolled 1 + 4 = 5
+Point is 5
+Player rolled 4 + 5 = 9
+Player rolled 3 + 1 = 4
+Player rolled 5 + 1 = 6
+Player rolled 1 + 4 = 5
+[44] Game is WON, point is 5, tryCounter is 5.
+Player rolled 1 + 2 = 3
+[45] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 5 + 3 = 8
+[46] Game is WON, point is 8, tryCounter is 2.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 5 + 6 = 11
+Player rolled 5 + 3 = 8
+Player rolled 4 + 6 = 10
+Player rolled 1 + 3 = 4
+[47] Game is WON, point is 4, tryCounter is 5.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 3 + 5 = 8
+[48] Game is WON, point is 8, tryCounter is 2.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 2 + 3 = 5
+Player rolled 4 + 3 = 7
+[49] Game is LOST, point is 6, tryCounter is 3.
+Player rolled 1 + 6 = 7
+[50] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 1 = 2
+[51] Game is LOST, point is 2, tryCounter is 1.
+Player rolled 3 + 6 = 9
+Point is 9
+Player rolled 6 + 1 = 7
+[52] Game is LOST, point is 9, tryCounter is 2.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 3 + 6 = 9
+Player rolled 3 + 6 = 9
+Player rolled 5 + 5 = 10
+Player rolled 6 + 6 = 12
+Player rolled 4 + 5 = 9
+Player rolled 3 + 5 = 8
+Player rolled 3 + 3 = 6
+Player rolled 1 + 1 = 2
+Player rolled 4 + 6 = 10
+Player rolled 1 + 1 = 2
+Player rolled 2 + 1 = 3
+Player rolled 4 + 1 = 5
+[53] Game is WON, point is 5, tryCounter is 13.
+Player rolled 6 + 6 = 12
+[54] Game is LOST, point is 12, tryCounter is 1.
+Player rolled 6 + 5 = 11
+[55] Game is WON, point is 11, tryCounter is 1.
+Player rolled 4 + 5 = 9
+Point is 9
+Player rolled 5 + 4 = 9
+[56] Game is WON, point is 9, tryCounter is 2.
+Player rolled 4 + 1 = 5
+Point is 5
+Player rolled 3 + 6 = 9
+Player rolled 6 + 1 = 7
+[57] Game is LOST, point is 5, tryCounter is 3.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 5 + 5 = 10
+Player rolled 3 + 1 = 4
+Player rolled 2 + 3 = 5
+Player rolled 1 + 3 = 4
+Player rolled 3 + 6 = 9
+Player rolled 1 + 2 = 3
+Player rolled 6 + 4 = 10
+Player rolled 6 + 3 = 9
+Player rolled 1 + 5 = 6
+[58] Game is WON, point is 6, tryCounter is 10.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 3 + 4 = 7
+[59] Game is LOST, point is 10, tryCounter is 2.
+Player rolled 1 + 4 = 5
+Point is 5
+Player rolled 5 + 2 = 7
+[60] Game is LOST, point is 5, tryCounter is 2.
+Player rolled 3 + 2 = 5
+Point is 5
+Player rolled 2 + 2 = 4
+Player rolled 2 + 6 = 8
+Player rolled 4 + 5 = 9
+Player rolled 6 + 3 = 9
+Player rolled 5 + 4 = 9
+Player rolled 5 + 5 = 10
+Player rolled 3 + 3 = 6
+Player rolled 5 + 1 = 6
+Player rolled 4 + 4 = 8
+Player rolled 3 + 4 = 7
+[61] Game is LOST, point is 5, tryCounter is 11.
+Player rolled 3 + 6 = 9
+Point is 9
+Player rolled 5 + 3 = 8
+Player rolled 4 + 6 = 10
+Player rolled 1 + 6 = 7
+[62] Game is LOST, point is 9, tryCounter is 4.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 1 + 6 = 7
+[63] Game is LOST, point is 6, tryCounter is 2.
+Player rolled 6 + 2 = 8
+Point is 8
+Player rolled 3 + 4 = 7
+[64] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 4 + 2 = 6
+Point is 6
+Player rolled 6 + 3 = 9
+Player rolled 3 + 3 = 6
+[65] Game is WON, point is 6, tryCounter is 3.
+Player rolled 1 + 4 = 5
+Point is 5
+Player rolled 5 + 5 = 10
+Player rolled 4 + 1 = 5
+[66] Game is WON, point is 5, tryCounter is 3.
+Player rolled 3 + 4 = 7
+[67] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 4 + 1 = 5
+[68] Game is WON, point is 5, tryCounter is 2.
+Player rolled 5 + 5 = 10
+Point is 10
+Player rolled 6 + 3 = 9
+Player rolled 4 + 4 = 8
+Player rolled 4 + 4 = 8
+Player rolled 1 + 3 = 4
+Player rolled 3 + 3 = 6
+Player rolled 6 + 1 = 7
+[69] Game is LOST, point is 10, tryCounter is 7.
+Player rolled 2 + 6 = 8
+Point is 8
+Player rolled 3 + 4 = 7
+[70] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 6 + 1 = 7
+[71] Game is WON, point is 7, tryCounter is 1.
+Player rolled 5 + 2 = 7
+[72] Game is WON, point is 7, tryCounter is 1.
+Player rolled 4 + 2 = 6
+Point is 6
+Player rolled 2 + 4 = 6
+[73] Game is WON, point is 6, tryCounter is 2.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 6 + 5 = 11
+Player rolled 4 + 2 = 6
+Player rolled 3 + 1 = 4
+Player rolled 5 + 6 = 11
+Player rolled 2 + 2 = 4
+Player rolled 1 + 6 = 7
+[74] Game is LOST, point is 8, tryCounter is 7.
+Player rolled 4 + 3 = 7
+[75] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 2 = 4
+Point is 4
+Player rolled 3 + 1 = 4
+[76] Game is WON, point is 4, tryCounter is 2.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 2 + 4 = 6
+Player rolled 2 + 1 = 3
+Player rolled 5 + 3 = 8
+[77] Game is WON, point is 8, tryCounter is 4.
+Player rolled 6 + 5 = 11
+[78] Game is WON, point is 11, tryCounter is 1.
+Player rolled 6 + 3 = 9
+Point is 9
+Player rolled 2 + 3 = 5
+Player rolled 5 + 3 = 8
+Player rolled 4 + 1 = 5
+Player rolled 1 + 6 = 7
+[79] Game is LOST, point is 9, tryCounter is 5.
+Player rolled 4 + 2 = 6
+Point is 6
+Player rolled 1 + 2 = 3
+Player rolled 1 + 3 = 4
+Player rolled 5 + 6 = 11
+Player rolled 2 + 5 = 7
+[80] Game is LOST, point is 6, tryCounter is 5.
+Player rolled 6 + 6 = 12
+[81] Game is LOST, point is 12, tryCounter is 1.
+Player rolled 6 + 5 = 11
+[82] Game is WON, point is 11, tryCounter is 1.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 5 + 5 = 10
+Player rolled 1 + 5 = 6
+Player rolled 3 + 6 = 9
+Player rolled 5 + 2 = 7
+[83] Game is LOST, point is 8, tryCounter is 5.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 2 + 3 = 5
+Player rolled 2 + 2 = 4
+Player rolled 1 + 6 = 7
+[84] Game is LOST, point is 10, tryCounter is 4.
+Player rolled 1 + 5 = 6
+Point is 6
+Player rolled 1 + 5 = 6
+[85] Game is WON, point is 6, tryCounter is 2.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 4 + 2 = 6
+Player rolled 6 + 1 = 7
+[86] Game is LOST, point is 4, tryCounter is 3.
+Player rolled 5 + 5 = 10
+Point is 10
+Player rolled 6 + 1 = 7
+[87] Game is LOST, point is 10, tryCounter is 2.
+Player rolled 3 + 2 = 5
+Point is 5
+Player rolled 4 + 3 = 7
+[88] Game is LOST, point is 5, tryCounter is 2.
+Player rolled 6 + 6 = 12
+[89] Game is LOST, point is 12, tryCounter is 1.
+Player rolled 6 + 3 = 9
+Point is 9
+Player rolled 6 + 5 = 11
+Player rolled 6 + 1 = 7
+[90] Game is LOST, point is 9, tryCounter is 3.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 3 + 3 = 6
+[91] Game is WON, point is 6, tryCounter is 2.
+Player rolled 4 + 3 = 7
+[92] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 2 + 2 = 4
+Player rolled 5 + 3 = 8
+Player rolled 2 + 4 = 6
+Player rolled 2 + 6 = 8
+Player rolled 6 + 5 = 11
+Player rolled 5 + 6 = 11
+Player rolled 6 + 6 = 12
+Player rolled 2 + 4 = 6
+Player rolled 5 + 5 = 10
+Player rolled 6 + 4 = 10
+Player rolled 1 + 5 = 6
+Player rolled 3 + 4 = 7
+[93] Game is LOST, point is 5, tryCounter is 13.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 6 + 1 = 7
+[94] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 3 + 4 = 7
+[95] Game is LOST, point is 6, tryCounter is 2.
+Player rolled 1 + 1 = 2
+[96] Game is LOST, point is 2, tryCounter is 1.
+Player rolled 1 + 6 = 7
+[97] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 6 = 9
+Point is 9
+Player rolled 3 + 2 = 5
+Player rolled 4 + 5 = 9
+[98] Game is WON, point is 9, tryCounter is 3.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 4 + 1 = 5
+[99] Game is WON, point is 5, tryCounter is 2.
+Player rolled 6 + 3 = 9
+Point is 9
+Player rolled 4 + 5 = 9
+[100] Game is WON, point is 9, tryCounter is 2.
+Gamble count 100, lost 47, won 53.
+Player rolled 3 + 4 = 7
+[1] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 4 = 5
+Point is 5
+Player rolled 2 + 4 = 6
+Player rolled 6 + 2 = 8
+Player rolled 1 + 3 = 4
+Player rolled 5 + 1 = 6
+Player rolled 5 + 5 = 10
+Player rolled 5 + 1 = 6
+Player rolled 3 + 6 = 9
+Player rolled 4 + 3 = 7
+[2] Game is LOST, point is 5, tryCounter is 9.
+Player rolled 6 + 1 = 7
+[3] Game is WON, point is 7, tryCounter is 1.
+Player rolled 6 + 6 = 12
+[4] Game is LOST, point is 12, tryCounter is 1.
+Player rolled 3 + 1 = 4
+Point is 4
+Player rolled 1 + 3 = 4
+[5] Game is WON, point is 4, tryCounter is 2.
+Player rolled 1 + 6 = 7
+[6] Game is WON, point is 7, tryCounter is 1.
+Player rolled 6 + 1 = 7
+[7] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 6 = 7
+[8] Game is WON, point is 7, tryCounter is 1.
+Player rolled 4 + 3 = 7
+[9] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 2 + 6 = 8
+Player rolled 4 + 1 = 5
+Player rolled 4 + 2 = 6
+Player rolled 3 + 3 = 6
+Player rolled 1 + 3 = 4
+[10] Game is WON, point is 4, tryCounter is 6.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 6 + 3 = 9
+Player rolled 3 + 3 = 6
+Player rolled 2 + 5 = 7
+[11] Game is LOST, point is 10, tryCounter is 4.
+Player rolled 3 + 2 = 5
+Point is 5
+Player rolled 5 + 1 = 6
+Player rolled 5 + 2 = 7
+[12] Game is LOST, point is 5, tryCounter is 3.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 1 + 3 = 4
+Player rolled 6 + 5 = 11
+Player rolled 4 + 5 = 9
+Player rolled 4 + 5 = 9
+Player rolled 5 + 2 = 7
+[13] Game is LOST, point is 6, tryCounter is 6.
+Player rolled 4 + 6 = 10
+Point is 10
+Player rolled 2 + 4 = 6
+Player rolled 2 + 5 = 7
+[14] Game is LOST, point is 10, tryCounter is 3.
+Player rolled 6 + 5 = 11
+[15] Game is WON, point is 11, tryCounter is 1.
+Player rolled 2 + 2 = 4
+Point is 4
+Player rolled 5 + 1 = 6
+Player rolled 4 + 2 = 6
+Player rolled 1 + 2 = 3
+Player rolled 6 + 5 = 11
+Player rolled 3 + 1 = 4
+[16] Game is WON, point is 4, tryCounter is 6.
+Player rolled 6 + 1 = 7
+[17] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 5 = 7
+[18] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 2 + 1 = 3
+Player rolled 3 + 4 = 7
+[19] Game is LOST, point is 8, tryCounter is 3.
+Player rolled 6 + 6 = 12
+[20] Game is LOST, point is 12, tryCounter is 1.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 2 + 5 = 7
+[21] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 1 + 1 = 2
+[22] Game is LOST, point is 2, tryCounter is 1.
+Player rolled 1 + 6 = 7
+[23] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 6 = 8
+Point is 8
+Player rolled 1 + 5 = 6
+Player rolled 5 + 1 = 6
+Player rolled 4 + 4 = 8
+[24] Game is WON, point is 8, tryCounter is 4.
+Player rolled 3 + 4 = 7
+[25] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 3 = 6
+Point is 6
+Player rolled 4 + 4 = 8
+Player rolled 5 + 6 = 11
+Player rolled 6 + 6 = 12
+Player rolled 4 + 6 = 10
+Player rolled 4 + 1 = 5
+Player rolled 5 + 4 = 9
+Player rolled 3 + 4 = 7
+[26] Game is LOST, point is 6, tryCounter is 8.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 4 + 1 = 5
+Player rolled 3 + 5 = 8
+Player rolled 6 + 1 = 7
+[27] Game is LOST, point is 10, tryCounter is 4.
+Player rolled 1 + 2 = 3
+[28] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 1 + 4 = 5
+Point is 5
+Player rolled 5 + 4 = 9
+Player rolled 1 + 5 = 6
+Player rolled 4 + 2 = 6
+Player rolled 2 + 6 = 8
+Player rolled 6 + 1 = 7
+[29] Game is LOST, point is 5, tryCounter is 6.
+Player rolled 6 + 1 = 7
+[30] Game is WON, point is 7, tryCounter is 1.
+Player rolled 6 + 1 = 7
+[31] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 4 + 2 = 6
+Player rolled 6 + 4 = 10
+Player rolled 5 + 2 = 7
+[32] Game is LOST, point is 5, tryCounter is 4.
+Player rolled 4 + 6 = 10
+Point is 10
+Player rolled 4 + 1 = 5
+Player rolled 6 + 5 = 11
+Player rolled 2 + 5 = 7
+[33] Game is LOST, point is 10, tryCounter is 4.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 2 + 1 = 3
+Player rolled 3 + 3 = 6
+[34] Game is WON, point is 6, tryCounter is 3.
+Player rolled 2 + 2 = 4
+Point is 4
+Player rolled 2 + 5 = 7
+[35] Game is LOST, point is 4, tryCounter is 2.
+Player rolled 1 + 5 = 6
+Point is 6
+Player rolled 6 + 4 = 10
+Player rolled 5 + 1 = 6
+[36] Game is WON, point is 6, tryCounter is 3.
+Player rolled 4 + 1 = 5
+Point is 5
+Player rolled 2 + 2 = 4
+Player rolled 4 + 5 = 9
+Player rolled 3 + 5 = 8
+Player rolled 2 + 6 = 8
+Player rolled 3 + 1 = 4
+Player rolled 2 + 2 = 4
+Player rolled 5 + 4 = 9
+Player rolled 5 + 4 = 9
+Player rolled 2 + 5 = 7
+[37] Game is LOST, point is 5, tryCounter is 10.
+Player rolled 4 + 1 = 5
+Point is 5
+Player rolled 5 + 6 = 11
+Player rolled 6 + 3 = 9
+Player rolled 2 + 5 = 7
+[38] Game is LOST, point is 5, tryCounter is 4.
+Player rolled 6 + 1 = 7
+[39] Game is WON, point is 7, tryCounter is 1.
+Player rolled 5 + 2 = 7
+[40] Game is WON, point is 7, tryCounter is 1.
+Player rolled 5 + 4 = 9
+Point is 9
+Player rolled 3 + 2 = 5
+Player rolled 6 + 3 = 9
+[41] Game is WON, point is 9, tryCounter is 3.
+Player rolled 4 + 1 = 5
+Point is 5
+Player rolled 2 + 6 = 8
+Player rolled 6 + 2 = 8
+Player rolled 1 + 4 = 5
+[42] Game is WON, point is 5, tryCounter is 4.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 6 + 4 = 10
+Player rolled 6 + 3 = 9
+Player rolled 4 + 4 = 8
+[43] Game is WON, point is 8, tryCounter is 4.
+Player rolled 6 + 3 = 9
+Point is 9
+Player rolled 6 + 2 = 8
+Player rolled 1 + 3 = 4
+Player rolled 6 + 3 = 9
+[44] Game is WON, point is 9, tryCounter is 4.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 5 + 6 = 11
+Player rolled 3 + 4 = 7
+[45] Game is LOST, point is 8, tryCounter is 3.
+Player rolled 2 + 6 = 8
+Point is 8
+Player rolled 3 + 2 = 5
+Player rolled 5 + 2 = 7
+[46] Game is LOST, point is 8, tryCounter is 3.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 3 + 5 = 8
+Player rolled 5 + 2 = 7
+[47] Game is LOST, point is 4, tryCounter is 3.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 3 + 3 = 6
+Player rolled 5 + 2 = 7
+[48] Game is LOST, point is 10, tryCounter is 3.
+Player rolled 6 + 2 = 8
+Point is 8
+Player rolled 3 + 4 = 7
+[49] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 5 + 6 = 11
+[50] Game is WON, point is 11, tryCounter is 1.
+Player rolled 1 + 2 = 3
+[51] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 6 + 5 = 11
+Player rolled 6 + 5 = 11
+Player rolled 4 + 2 = 6
+Player rolled 4 + 6 = 10
+Player rolled 3 + 4 = 7
+[52] Game is LOST, point is 8, tryCounter is 6.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 6 + 5 = 11
+Player rolled 5 + 5 = 10
+[53] Game is WON, point is 10, tryCounter is 3.
+Player rolled 6 + 1 = 7
+[54] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 1 + 5 = 6
+Player rolled 4 + 1 = 5
+[55] Game is WON, point is 5, tryCounter is 3.
+Player rolled 6 + 2 = 8
+Point is 8
+Player rolled 1 + 6 = 7
+[56] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 2 + 3 = 5
+Point is 5
+Player rolled 2 + 1 = 3
+Player rolled 6 + 6 = 12
+Player rolled 5 + 1 = 6
+Player rolled 1 + 3 = 4
+Player rolled 5 + 2 = 7
+[57] Game is LOST, point is 5, tryCounter is 6.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 5 + 6 = 11
+Player rolled 6 + 1 = 7
+[58] Game is LOST, point is 10, tryCounter is 3.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 6 + 3 = 9
+Player rolled 6 + 6 = 12
+Player rolled 5 + 1 = 6
+[59] Game is WON, point is 6, tryCounter is 4.
+Player rolled 6 + 5 = 11
+[60] Game is WON, point is 11, tryCounter is 1.
+Player rolled 1 + 6 = 7
+[61] Game is WON, point is 7, tryCounter is 1.
+Player rolled 2 + 2 = 4
+Point is 4
+Player rolled 1 + 2 = 3
+Player rolled 2 + 4 = 6
+Player rolled 1 + 4 = 5
+Player rolled 2 + 5 = 7
+[62] Game is LOST, point is 4, tryCounter is 5.
+Player rolled 6 + 6 = 12
+[63] Game is LOST, point is 12, tryCounter is 1.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 2 + 6 = 8
+[64] Game is WON, point is 8, tryCounter is 2.
+Player rolled 1 + 1 = 2
+[65] Game is LOST, point is 2, tryCounter is 1.
+Player rolled 1 + 2 = 3
+[66] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 2 + 4 = 6
+Point is 6
+Player rolled 5 + 1 = 6
+[67] Game is WON, point is 6, tryCounter is 2.
+Player rolled 3 + 1 = 4
+Point is 4
+Player rolled 6 + 2 = 8
+Player rolled 5 + 6 = 11
+Player rolled 6 + 5 = 11
+Player rolled 1 + 4 = 5
+Player rolled 6 + 6 = 12
+Player rolled 5 + 6 = 11
+Player rolled 3 + 6 = 9
+Player rolled 2 + 1 = 3
+Player rolled 6 + 6 = 12
+Player rolled 4 + 1 = 5
+Player rolled 5 + 4 = 9
+Player rolled 5 + 3 = 8
+Player rolled 5 + 1 = 6
+Player rolled 6 + 1 = 7
+[68] Game is LOST, point is 4, tryCounter is 15.
+Player rolled 5 + 6 = 11
+[69] Game is WON, point is 11, tryCounter is 1.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 6 + 2 = 8
+Player rolled 1 + 5 = 6
+Player rolled 6 + 5 = 11
+Player rolled 6 + 5 = 11
+Player rolled 4 + 4 = 8
+Player rolled 2 + 1 = 3
+Player rolled 3 + 4 = 7
+[70] Game is LOST, point is 10, tryCounter is 8.
+Player rolled 5 + 6 = 11
+[71] Game is WON, point is 11, tryCounter is 1.
+Player rolled 1 + 2 = 3
+[72] Game is LOST, point is 3, tryCounter is 1.
+Player rolled 4 + 3 = 7
+[73] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 3 = 6
+Point is 6
+Player rolled 6 + 5 = 11
+Player rolled 3 + 3 = 6
+[74] Game is WON, point is 6, tryCounter is 3.
+Player rolled 6 + 1 = 7
+[75] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 3 = 6
+Point is 6
+Player rolled 3 + 2 = 5
+Player rolled 4 + 3 = 7
+[76] Game is LOST, point is 6, tryCounter is 3.
+Player rolled 4 + 4 = 8
+Point is 8
+Player rolled 2 + 3 = 5
+Player rolled 6 + 3 = 9
+Player rolled 4 + 2 = 6
+Player rolled 1 + 6 = 7
+[77] Game is LOST, point is 8, tryCounter is 5.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 4 + 3 = 7
+[78] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 6 + 1 = 7
+[79] Game is WON, point is 7, tryCounter is 1.
+Player rolled 5 + 2 = 7
+[80] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 2 = 5
+Point is 5
+Player rolled 5 + 3 = 8
+Player rolled 5 + 4 = 9
+Player rolled 2 + 5 = 7
+[81] Game is LOST, point is 5, tryCounter is 4.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 6 + 1 = 7
+[82] Game is LOST, point is 10, tryCounter is 2.
+Player rolled 4 + 1 = 5
+Point is 5
+Player rolled 4 + 3 = 7
+[83] Game is LOST, point is 5, tryCounter is 2.
+Player rolled 3 + 4 = 7
+[84] Game is WON, point is 7, tryCounter is 1.
+Player rolled 6 + 4 = 10
+Point is 10
+Player rolled 3 + 6 = 9
+Player rolled 1 + 5 = 6
+Player rolled 3 + 4 = 7
+[85] Game is LOST, point is 10, tryCounter is 4.
+Player rolled 5 + 2 = 7
+[86] Game is WON, point is 7, tryCounter is 1.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 2 + 5 = 7
+[87] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 3 + 6 = 9
+Point is 9
+Player rolled 2 + 1 = 3
+Player rolled 1 + 1 = 2
+Player rolled 5 + 4 = 9
+[88] Game is WON, point is 9, tryCounter is 4.
+Player rolled 4 + 2 = 6
+Point is 6
+Player rolled 4 + 5 = 9
+Player rolled 2 + 6 = 8
+Player rolled 6 + 2 = 8
+Player rolled 1 + 5 = 6
+[89] Game is WON, point is 6, tryCounter is 5.
+Player rolled 5 + 1 = 6
+Point is 6
+Player rolled 2 + 5 = 7
+[90] Game is LOST, point is 6, tryCounter is 2.
+Player rolled 3 + 4 = 7
+[91] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 1 = 2
+[92] Game is LOST, point is 2, tryCounter is 1.
+Player rolled 4 + 3 = 7
+[93] Game is WON, point is 7, tryCounter is 1.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 5 + 3 = 8
+Player rolled 6 + 6 = 12
+Player rolled 1 + 4 = 5
+Player rolled 4 + 5 = 9
+Player rolled 1 + 5 = 6
+Player rolled 4 + 2 = 6
+Player rolled 4 + 3 = 7
+[94] Game is LOST, point is 4, tryCounter is 8.
+Player rolled 5 + 3 = 8
+Point is 8
+Player rolled 4 + 3 = 7
+[95] Game is LOST, point is 8, tryCounter is 2.
+Player rolled 5 + 6 = 11
+[96] Game is WON, point is 11, tryCounter is 1.
+Player rolled 3 + 4 = 7
+[97] Game is WON, point is 7, tryCounter is 1.
+Player rolled 3 + 5 = 8
+Point is 8
+Player rolled 6 + 3 = 9
+Player rolled 3 + 3 = 6
+Player rolled 3 + 4 = 7
+[98] Game is LOST, point is 8, tryCounter is 4.
+Player rolled 3 + 1 = 4
+Point is 4
+Player rolled 4 + 2 = 6
+Player rolled 5 + 5 = 10
+Player rolled 5 + 2 = 7
+[99] Game is LOST, point is 4, tryCounter is 4.
+Player rolled 1 + 3 = 4
+Point is 4
+Player rolled 1 + 5 = 6
+Player rolled 2 + 4 = 6
+Player rolled 1 + 5 = 6
+Player rolled 4 + 3 = 7
+[100] Game is LOST, point is 4, tryCounter is 5.
+Gamble count 100, lost 51, won 49.
