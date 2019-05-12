@@ -4,3 +4,4 @@
 ** Character 7 Pointer (Page. 267) 20190508 10:08pm
 ** Character 7 Pointer (Page. 274) 20190509 17:17pm
 ** Character 8 Character & String (Page. 310) 20190511 17:32pm
+** Character 8 Character & String (Page. 314) 20190512 01:41am
