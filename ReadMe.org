@@ -5,3 +5,4 @@
 ** Character 7 Pointer (Page. 274) 20190509 17:17pm
 ** Character 8 Character & String (Page. 310) 20190511 17:32pm
 ** Character 8 Character & String (Page. 314) 20190512 01:41am
+** Character 9 Formatting Input & Output (Page. 334) 20190514 17:23pm
