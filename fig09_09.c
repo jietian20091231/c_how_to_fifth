@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
   int i = 873;
-  double f = 123.94536;
+  double f = 123.94576;
   char s[] = "Happy Birthday";
 
   printf( "Using precision for integers\n" );
@@ -14,6 +14,11 @@ int main(int argc, char *argv[])
 
   printf(  "Using prcision for strings" );
   printf(  "\t%.11s\n", s );
+
+  printf( "%9.3f\n", 123.456789 );
+  printf( "%*.*f\n", 7, 2, 98.736 );
+  printf( "%*.*f\n", 7, 2, 123.456789 );
+  
   
   
   
