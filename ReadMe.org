@@ -6,3 +6,4 @@
 ** Character 8 Character & String (Page. 310) 20190511 17:32pm
 ** Character 8 Character & String (Page. 314) 20190512 01:41am
 ** Character 9 Formatting Input & Output (Page. 334) 20190514 17:23pm
+** Character 10 C Structures, Unions, Bit Manipulations and Enumerations. (Page. 365) 20190517 17:29pm
