@@ -4,13 +4,19 @@
 void displayBits( unsigned int value );
 
 int main( void )
-{ 
-  unsigned int x;
+{
+  unsigned int a;
 
-  printf( "Enter an unsigned integer: " );
-  scanf( "%u", &x );
+  a = 960;
+  printf( "The result of left shifting\n" );
+  displayBits( a );
+  printf( "8 bit positions using the left shift operator << is\n" );
+  displayBits( a << 8 );
 
-  displayBits( x );
+  printf( "\nThe result of right shifting\n" );
+  displayBits( a );
+  printf( "8 bit positions using the right shift  operator >> is\n" );
+  displayBits( a >> 8 );
 
 
   return 0;
