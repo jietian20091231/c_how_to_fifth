@@ -1,5 +1,6 @@
 
 
+
 * C How to programming
 ** Character 7 Pointer (Page. 267) 20190508 10:08pm
 ** Character 7 Pointer (Page. 274) 20190509 17:17pm
@@ -8,3 +9,4 @@
 ** Character 9 Formatting Input & Output (Page. 334) 20190514 17:23pm
 ** Character 10 C Structures, Unions, Bit Manipulations and Enumerations. (Page. 365) 20190517 17:29pm
 ** Character 10 C Structures, Unions, Bit Manipulations and Enumerations. (Page. 372) 20190518 18:20pm
+** Character 11 File. (Page. 395) 20190520 01:00am
