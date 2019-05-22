@@ -1,6 +1,3 @@
-
-
-
 * C How to programming
 ** Character 7 Pointer (Page. 267) 20190508 10:08pm
 ** Character 7 Pointer (Page. 274) 20190509 17:17pm
