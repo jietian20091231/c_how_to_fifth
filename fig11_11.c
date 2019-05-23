@@ -3,8 +3,8 @@
 
 struct clientData {
     int acctNum;
-    char lastName[ 15 ];
-    char firstName[ 15 ];
+    char lastName[ 50 ];
+    char firstName[ 50 ];
     double balance;
 };
 
@@ -17,6 +17,8 @@ int main(int argc, char const *argv[])
     if ( ( cfPtr = fopen( "credit.dat", "wb" ) ) == NULL ) {
         printf( "File could not be opened.\n" );
     } else {
+
+        rewind( cfPtr );
         for ( i = 0; i < 100; i++ ) {
             fwrite( &blankClient, sizeof( struct clientData ), 1, cfPtr );
         }

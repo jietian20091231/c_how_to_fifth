@@ -7,3 +7,4 @@
 ** Character 10 C Structures, Unions, Bit Manipulations and Enumerations. (Page. 365) 20190517 17:29pm
 ** Character 10 C Structures, Unions, Bit Manipulations and Enumerations. (Page. 372) 20190518 18:20pm
 ** Character 11 File. (Page. 395) 20190520 01:00am
+** Character 12 Data Structure. (Page. 414) 20190523 17:40pm
