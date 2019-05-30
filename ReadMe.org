@@ -9,4 +9,5 @@
 ** Character 11 File. (Page. 395) 20190520 01:00am
 ** Character 12 Data Structure. (Page. 414) 20190523 17:40pm
 ** Character 12 Data Structure. (Page. 438) 20190523 17:41pm
+** Character 16 Sorting: A Deeper Look (Page. 533 ) 20190530 17:05pm
 
